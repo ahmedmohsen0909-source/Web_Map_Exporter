@@ -1,0 +1,17 @@
+[general]
+name=Web Map Exporter
+author=Ahmed Mohsen
+email=ahmedmohsen0909@gmail.com
+qgisMinimumVersion=3.34
+qgisMaximumVersion=3.99
+description=Export QGIS projects to standalone Leaflet web maps with search, filters and navigation.
+about=Adds a Create web map dialog that exports vector layers, file rasters and XYZ tile layers to a standalone Leaflet map. Supports single, categorized, graduated and rule-based styles, labels, configurable popups, clustering, legend, layer list, attribute search with auto-zoom, filter panel, navigation links (Google Maps, Waze and Apple Maps), measuring, address search, geolocation, full screen, printing, coordinates, mini map, live preview, and Folder or ZIP output. Leaflet and its plugins are bundled. Basemap tiles still require an internet connection. Licensed under GNU GPL version 2 or (at your option) any later version.
+version=0.3.0
+category=Web
+tags=web, webmap, leaflet, export, search
+icon=icon.png
+experimental=False
+deprecated=False
+homepage=https://github.com/ahmedmohsen0909-source/Web_Map_Exporter
+tracker=https://github.com/ahmedmohsen0909-source/Web_Map_Exporter/issues
+repository=https://github.com/ahmedmohsen0909-source/Web_Map_Exporter
